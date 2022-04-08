@@ -1,0 +1,17 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "dist",
+    "module": "es6",
+    "moduleResolution": "node",
+    "target": "es6",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "extendedDiagnostics": true,
+    "lib": ["dom", "es5", "es6", "es2017"],
+    "rootDirs": ["src"]
+  },
+  "include": ["src"]
+}
